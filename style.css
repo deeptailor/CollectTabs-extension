@@ -1,0 +1,38 @@
+.collect{
+  width: 150px;
+  border: 2px solid black;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+}
+
+.collect:hover{
+  cursor: pointer;
+  background: #03a0ff;
+}
+
+.open{
+  width: 150px;
+  border: 2px solid black;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+}
+
+.open:hover{
+  cursor: pointer;
+  background: #03a0ff;
+}
+
+h2{
+  margin: 3px;
+}
+
+
+img{
+  height: 20px;
+}

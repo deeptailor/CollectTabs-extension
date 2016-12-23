@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Collect Tabs",
+  "description": "Save current tabs to open later",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "collect.png",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "tabs",
+    "storage"
+  ]
+}
